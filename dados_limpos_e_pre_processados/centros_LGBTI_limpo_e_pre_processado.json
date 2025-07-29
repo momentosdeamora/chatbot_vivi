@@ -1,0 +1,48 @@
+{
+    "paragrafos": {
+        "paragrafo_4": "Acesse aqui o Manual dos Centros de Cidadania LGBTI."
+    },
+    "centros": [
+        {
+            "nome": "Centro de Referência LGBTI+ Claudia Wonder (Zona Oeste) ",
+            "zona": "Zona Oeste",
+            "endereco": "Rua alvarenga 756 - Butantã",
+            "horario": "Segunda a sexta-feira, das 9h às 17h",
+            "telefone": [
+                "11 3815-9318"
+            ],
+            "email": "E-mail: crlgbtioeste@prefeitura.sp.gov.br"
+        },
+        {
+            "nome": "Centro de Referência LGBTI+ Laura Vermont (Zona Leste) ",
+            "zona": "Zona Leste",
+            "endereco": "Avenida Nordestina, 496 – São Miguel Paulista",
+            "horario": "Segunda a sexta-feira, das 9h às 17h",
+            "telefone": [
+                "(11) 2032-3737"
+            ],
+            "email": "E-mail: crlgbtileste@prefeitura.sp.gov.br"
+        },
+        {
+            "nome": "Centro de Referência LGBTI+ Luana Barbosa dos Reis (Zona Norte) ",
+            "zona": "Zona Norte",
+            "endereco": "Rua Francisco Coelho, 23, Jardim Santo Elias",
+            "horario": "Segunda a sexta-feira, das 9h às 17h \nTelefone e whatsapp: (11) 2368-9500 \nE-mail: crlgbtinorte@prefeitura.sp.gov.br\nCentro de Referência LGBTI+ Edson Neris (Zona Sul) \nEstrada do Campo Limpo, 2690 - Vila Pirajussara\nSegunda a sexta-feira, das 9h às 17h",
+            "telefone": [
+                "(11) 5842-3587 - (11) 5842-1030"
+            ],
+            "email": "E-mail: crlgbtisul@prefeitura.sp.gov.br"
+        },
+        {
+            "nome": "Centro de Referência LGBTI+ Brunna Valin (Centro) ",
+            "zona": "Centro",
+            "endereco": "Rua Major Sertório, 292/294 - República",
+            "horario": "Segunda a sexta-feira, das 9h às 17h",
+            "telefone": [
+                "(11) 3151-5786",
+                "5783"
+            ],
+            "email": "E-mail: crlgbticentro@prefeitura.sp.gov.br"
+        }
+    ]
+}
